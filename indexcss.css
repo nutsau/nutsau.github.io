@@ -1,8 +1,10 @@
 h1 {
 	font-size: 30px;
 	font-family: 'Roboto', sans-serif;
-	margin: 30px;
-	position: right;
+	color:#E5E52D;
+	border: 30px; 
+	width: 100px;
+	Height: 100px;
 }
 
 a {
