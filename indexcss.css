@@ -6,3 +6,12 @@ h1 {
 
 }
 
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	color:#E63E33;
+	text-decoration: none;
+}
