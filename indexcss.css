@@ -1,8 +1,17 @@
 h1 {
 	font-size: 30px;
 	font-family: 'Roboto', sans-serif;
-	margin-top: 50px;
-	margin-left: 50px;
+	margin-top: 1000px;
+	margin-left: 600px;
 	position: right;
 }
 
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	color:#E63E33;
+	text-decoration: none;
+}
